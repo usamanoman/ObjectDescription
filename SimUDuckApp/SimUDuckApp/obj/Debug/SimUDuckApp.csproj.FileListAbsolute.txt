@@ -1,0 +1,6 @@
+c:\users\unknown\documents\visual studio 2012\Projects\SimUDuckApp\SimUDuckApp\bin\Debug\SimUDuckApp.exe.config
+c:\users\unknown\documents\visual studio 2012\Projects\SimUDuckApp\SimUDuckApp\bin\Debug\SimUDuckApp.exe
+c:\users\unknown\documents\visual studio 2012\Projects\SimUDuckApp\SimUDuckApp\bin\Debug\SimUDuckApp.pdb
+c:\users\unknown\documents\visual studio 2012\Projects\SimUDuckApp\SimUDuckApp\obj\Debug\SimUDuckApp.exe
+c:\users\unknown\documents\visual studio 2012\Projects\SimUDuckApp\SimUDuckApp\obj\Debug\SimUDuckApp.pdb
+c:\users\unknown\documents\visual studio 2012\Projects\SimUDuckApp\SimUDuckApp\obj\Debug\SimUDuckApp.csprojResolveAssemblyReference.cache
