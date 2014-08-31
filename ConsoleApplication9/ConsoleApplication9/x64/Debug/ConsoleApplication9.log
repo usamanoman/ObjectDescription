@@ -1,0 +1,11 @@
+﻿Build started 6/1/2014 2:46:31 PM.
+     1>Project "c:\Users\Unknown\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(3): fatal error C1083: Cannot open include file: 'opencv\highgui.h': No such file or directory
+     1>Done Building Project "c:\Users\Unknown\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.56
